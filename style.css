@@ -1,0 +1,25 @@
+body{
+	background-image:url("212121.png");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+	border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+}
+
+h1,h4
+{
+	color: white !important;
+    font-size: 25px;
+    font-family: 'Kufam', cursive;
+    font-weight: 400;
+}
+b{
+    color: brown;
+    font-size: 25px;
+    font-family: 'Kufam', cursive;
+    font-weight: 400;
+}
